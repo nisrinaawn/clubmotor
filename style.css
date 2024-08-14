@@ -46,7 +46,8 @@ body {
 .tentang h5,
 .visi h5,
 .profile h5,
-.produk h5 {
+.produk h5,
+.event h5 {
     font-size: 30px;
     color: var(--cream);
 }
@@ -383,6 +384,11 @@ body {
     text-align: center;
 }
 
+.event h5 {
+    border-left: 2px solid var(--primary-red);
+    padding-left: 10px;
+}
+
 .event .teks-body {
     position: relative;
     margin-top: 1em;
@@ -392,7 +398,7 @@ body {
     display: -webkit-box;
     -webkit-line-clamp: 4;
     -webkit-box-orient: vertical;
-    padding: 5px;
+    padding: 0;
 }
 
 .wrapper {
@@ -413,6 +419,10 @@ body {
 
 .slide-container-upevent .card-wrapper .card {
     border: none;
+}
+
+.card-event {
+    background-color: var(--cream);
 }
 
 .event .card-event .date {

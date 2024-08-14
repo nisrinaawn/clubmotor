@@ -239,10 +239,8 @@
 
 
             <!-- EVENT -->
-            <div class="container event p-0" id="event">
-                <div class="row event-title mt-5">
-                    <h5 style=" font-weight: 700; color: var(--cream); font-size: 30px;">UPCOMING EVENT</h5>
-                </div>
+            <div class="container event p-0 mt-5" id="event">                
+                <h5 style="font-weight: 700;">UPCOMING EVENTS</h5>
                 <div class="container swiper">
                     <div class="slide-container-upevent">
                         <div class="card-wrapper swiper-wrapper">
@@ -255,8 +253,8 @@
                                         <div class="col-8">
                                             <div class="teks">
                                                 <div class="teks-body">
-                                                    <h5 class="card-title">Gravity Motorcycle Club Annual Tour: Goes to
-                                                        Banyuwangi</h5>
+                                                    <h6 class="card-title">Gravity Motorcycle Club Annual Tour: Goes to
+                                                        Banyuwangi</h6>
                                                     <div class="preview-cerita">
                                                         <p class="card-text"> Prepare yourself and get ready
                                                             to go on amazing journey with us! Future information will be
@@ -281,8 +279,8 @@
                                         <div class="col-8">
                                             <div class="teks">
                                                 <div class="teks-body">
-                                                    <h5 class="card-title">Gravity Motorcycle Club Annual Tour: Goes to
-                                                        Banyuwangi</h5>
+                                                    <h6 class="card-title">Gravity Motorcycle Club Annual Tour: Goes to
+                                                        Banyuwangi</h6>
                                                     <div class="preview-cerita">
                                                         <p class="card-text"> Prepare yourself and get ready
                                                             to go on amazing journey with us! Future information will be
